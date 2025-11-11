@@ -15,11 +15,16 @@ A fun and interactive Tic Tac Toe game built to challenge your logic and strateg
 ⚡ Fast and lightweight — no dependencies
 
 🛠️ Tech Stack
+
 Frontend	Backend	Tools
+
 HTML, CSS, JavaScript	–	Git, VS Code
+
 🚀 Getting Started
+
 1️⃣ Clone the repository
-git clone https://github.com/your-username/tic-tok-toc.git
+
+git clone https://github.com/rahul7079/tic-tok-toc.git
 cd tic-tok-toc
 
 2️⃣ Open the game
